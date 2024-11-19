@@ -1,6 +1,5 @@
 ## Hi there, I'm Alberto 👋
 
-------------------------------------------------------------
 
 ### Unmanned Aerial Systems R&D Engineer
 Passionate about learning and working on:
