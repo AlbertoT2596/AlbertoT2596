@@ -12,9 +12,9 @@ Passionate about learning and working on:
 
 ### Master graduate in Aerospace Engineering
 Master thesis: "System Requirements and Architecture Validation of
-a Multi-Vehicle Management Systems (MVMS) for Drones"
+a Multi-Vehicle Management Systems (MVMS) for Drones"  
 The focus of my work was to implement a software architecture to manage and
-simulate multiple drones within a Software-in-the-Loop (SITL) environment.
+simulate multiple drones within a Software-in-the-Loop (SITL) environment.  
 A ground station prototype was built in Python with the support of MAVSDK library
 to manage the MAVLink protocol. PX4-Autopilot was used as the flight controller while
 AirSim was the drone model, simulating the missions in Unreal Engine with Cesium as the
