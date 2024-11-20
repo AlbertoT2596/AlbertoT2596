@@ -1,4 +1,4 @@
-## Hi there, I'm Alberto 👋
+## Hi there👋
 
 
 ### Unmanned Aerial Systems R&D Engineer
